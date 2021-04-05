@@ -1,0 +1,53 @@
+State_Abrv,STATE_NAME,Mask_Mandate,Mandatory
+AL,Alabama,7/16/2020,Yes
+AK,Alaska,,No
+AZ,Arizona,,No
+AR,Arkansas,7/20/2020,Yes
+CA,California,7/18/2020,Yes
+CO,Colorado,7/17/2020,Yes
+CT,Connecticut,4/17/2020,Yes
+DE,Delaware,9/16/2020,Yes
+DC,District of Columbia,7/22/2020,Yes
+FL,Florida,,No
+GA,Georgia,,No
+HI,Hawaii,3/16/2020,Yes
+ID,Idaho,,No
+IL,Illinois,6/26/2020,Yes
+IN,Indiana,7/27/2020,Yes
+IA,Iowa,11/17/2020,Yes
+KS,Kansas,7/2/2020,Yes
+KY,Kentucky,7/9/2020,Yes
+LA,Louisiana,7/11/2020,Yes
+ME,Maine,5/1/2020,Yes
+MD,Maryland,7/31/2020,Yes
+MA,Massachusetts,5/6/2020,Yes
+MI,Michigan,10/5/2020,Yes
+MN,Minnesota,7/25/2020,Yes
+MS,Mississippi,,No
+MO,Missouri,,No
+MT,Montana,7/15/2020,Yes
+NE,Nebraska,,No
+NV,Nevada,6/24/2020,Yes
+NH,New Hampshire,11/20/2020,Yes
+NJ,New Jersey,7/8/2020,Yes
+NM,New Mexico,5/16/2020,Yes
+NY,New York,4/17/2020,Yes
+NC,North Carolina,6/24/2020,Yes
+ND,North Dakota,11/14/2020,Yes
+OH,Ohio,7/23/2020,Yes
+OK,Oklahoma,,No
+OR,Oregon,7/1/2020,Yes
+PA,Pennsylvania,7/1/2020,Yes
+RI,Rhode Island,5/8/2020,Yes
+SC,South Carolina,,No
+SD,South Dakota,,No
+TN,Tennessee,,No
+TX,Texas,7/3/2020,Yes
+UT,Utah,11/9/2020,Yes
+VT,Vermont,8/1/2020,Yes
+VA,Virginia,5/26/2020,Yes
+WA,Washington,6/26/2020,Yes
+WV,West Virginia,6/6/2020,Yes
+WI,Wisconsin,8/1/2020,Yes
+WY,Wyoming,,No
+PR,Puerto Rico,,No
