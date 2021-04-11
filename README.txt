@@ -42,7 +42,7 @@ predictive_modeling.ipynb:      Contains the code that implements predictive mod
 
 EDA.ipynb:                      Contains the code for analyzing patterns in the final dataset.
 
-covid.csv:		Covid-19 dataset acquired from the CDC data resources
+covid.csv:		  Covid-19 dataset acquired from the CDC data resources
 
 mask.csv:	                Mask mandate dataset for each of the 50 states
 
