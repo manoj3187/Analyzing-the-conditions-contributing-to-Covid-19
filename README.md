@@ -30,17 +30,17 @@ Anyone can use the code without specifically citing the authors.
 ----------------------------------------------------------------------
 0.3 
 The datasets were acquired from CDC and github. 
-CDC dataset: https://data.cdc.gov/NCHS/Conditions-contributing-to-deaths-involving-corona/hk9y-quqm
-Public health dataset: https://github.com/JKRosen/DSCI-511-Project
+CDC dataset: https://data.cdc.gov/NCHS/Conditions-contributing-to-deaths-involving-corona/hk9y-quqm.
+Public health dataset: https://github.com/JKRosen/DSCI-511-Project.
 
 ----------------------------------------------------------------------
 0.4 Code folder contents
 
-preprocessing.ipynb:            Contains the code that cleans and merges the three datasets
+preprocessing.ipynb:            Contains the code that cleans and merges the three datasets.
 
-predictive_modeling.ipynb:       Contains the code that implements predictive modelling using several regression algorithms
+predictive_modeling.ipynb:       Contains the code that implements predictive modelling using several regression algorithms.
 
-EDA.ipynb:                      Contains the code for analyzing patterns in the final dataset
+EDA.ipynb:                      Contains the code for analyzing patterns in the final dataset.
 
 covid.csv:			                Covid-19 dataset acquired from the CDC data resources
 
