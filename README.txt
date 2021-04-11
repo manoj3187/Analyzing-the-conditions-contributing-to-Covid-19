@@ -38,13 +38,13 @@ Public health dataset: https://github.com/JKRosen/DSCI-511-Project.
 
 preprocessing.ipynb:            Contains the code that cleans and merges the three datasets.
 
-predictive_modeling.ipynb:       Contains the code that implements predictive modelling using several regression algorithms.
+predictive_modeling.ipynb:      Contains the code that implements predictive modelling using several regression algorithms.
 
 EDA.ipynb:                      Contains the code for analyzing patterns in the final dataset.
 
 covid.csv:			                Covid-19 dataset acquired from the CDC data resources
 
-mask.csv:	                    Mask mandate dataset for each of the 50 states
+mask.csv:	                      Mask mandate dataset for each of the 50 states
 
 dataset.csv:	                  County wise public health dataset
 
